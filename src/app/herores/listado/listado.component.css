@@ -1,0 +1,10 @@
+#button-heroes{
+    
+    position: sticky;
+    border-radius: 10px;
+}
+
+#button-heroes:hover{
+    background-color: lightseagreen;
+    
+}
